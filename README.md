@@ -1,6 +1,11 @@
-# tetahu
+# Tetahu
 
 A new Flutter project.
+
+PREVIEW
+![Screenshot_2023-06-22-14-58-54-362_com example tetahu](https://github.com/WiraTY/Tetahu/assets/108583774/12fbeb61-aefc-43b1-9b4e-22d42a1d2830)
+
+
 
 ## Getting Started
 
