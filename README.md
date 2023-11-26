@@ -3,10 +3,10 @@
 A new Flutter project.
 
 PREVIEW
-![Screenshot_2023-06-22-14-58-54-362_com example tetahu](https://github.com/WiraTY/Tetahu/assets/108583774/12fbeb61-aefc-43b1-9b4e-22d42a1d2830) width="100" height="100"
-![Screenshot_2023-06-22-14-58-57-701_com example tetahu](https://github.com/WiraTY/Tetahu/assets/108583774/ce69778e-2286-4496-8bc3-59bb7c47cbe8)
-
-
+<img src="https://github.com/WiraTY/Tetahu/assets/108583774/12fbeb61-aefc-43b1-9b4e-22d42a1d2830" width="200" height="400">
+<img src="https://github.com/WiraTY/Tetahu/assets/108583774/ce69778e-2286-4496-8bc3-59bb7c47cbe8" width="200" height="400">
+<img src="https://github.com/WiraTY/Tetahu/assets/108583774/f8a6a3ea-8a50-4eb8-b295-166736c0e4e1" width="200" height="400">
+<img src="https://github.com/WiraTY/Tetahu/assets/108583774/6401ce6f-fd2e-4467-976e-c296a35237b3" width="200" height="400">
 
 ## Getting Started
 
